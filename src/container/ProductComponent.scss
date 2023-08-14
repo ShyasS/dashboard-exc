@@ -1,0 +1,21 @@
+#Card1{
+    cursor:pointer;
+h5{
+    text-align: center;
+}
+.card-title{
+overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1; 
+  white-space: pre-wrap;
+}
+
+
+}
+.Maindiv{
+    margin-left: 30px;
+    display:grid;
+    gap:20px;
+    grid-template-columns: auto auto auto auto auto;
+}

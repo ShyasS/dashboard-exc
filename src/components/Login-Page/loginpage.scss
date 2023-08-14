@@ -1,0 +1,56 @@
+.Maindiv{
+ img{
+    height:70px;
+    width:180px;
+    position:relative;
+    top:100px;
+    left:670px;
+ }
+ 
+.card{
+  margin-left:600px;
+  margin-top:90px;
+  width:140%;
+
+  .h1{
+    font-weight:500;
+    font-size:26px;
+    margin-top:20px;
+    margin-left:30px;
+ }
+ .p2{
+    font-size:13px;
+    margin-left:26px;
+    margin-top:10px;
+ }
+ .p3{
+    font-size:13px;
+    margin-left:26px;
+    margin-top:10px;
+ }
+
+.input1{
+  
+}
+.form-label{
+    font-size:13px;
+    font-weight:700;
+    margin-left:30px;
+}
+#input1{
+    width:80%;
+    margin-left:30px;
+    outline:10px;
+}
+#button1{
+    width:80%;
+    margin-left:30px;
+    margin-top:10px;
+    background-color:rgb(244, 189, 9);
+
+}
+.span1{
+    color:black;
+}
+}
+}
